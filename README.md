@@ -13,4 +13,4 @@
 http://localhost:8080?url=要展示成二维码的内容
 
 ### 3. 在线测试地址
-http://showqr.tk/?url=是的就是这里
+https://express-qrcode.glitch.me?url=是的就是这里
